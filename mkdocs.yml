@@ -1,0 +1,25 @@
+site_name: 蟒营 写作 入门班
+copyright: ©101camp 2019 
+
+theme: 
+  name: 'simplex'
+  custom_dir: '_theme/bootswatch/simplex'
+
+nav:
+  - Home: index.md
+  - FAQ: faq.md
+  - License: license.md
+
+#  - ANN: announce.md
+#  - User Guide: guide.md
+
+markdown_extensions:
+  - toc:
+      permalink: "¶"
+
+extra:
+  logo: img/logo.png
+  include_toc: yes
+  extra_nav_links:
+    Fork me on GitHub: https://github.com/notpushkin/mkdocs-alabaster
+
