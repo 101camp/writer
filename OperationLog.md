@@ -14,7 +14,6 @@
 > Py2 官方都已经停止维护了...
 
 
-于是大妈提醒
 
 ![mkAHyt.jpg](https://s2.ax1x.com/2019/08/14/mkAHyt.jpg)
 
@@ -187,13 +186,13 @@ pip install -r requirements.txt
 
 再执行 `inv pub`
 
-终于发现 `wr.101.camp` 中的文件更新了……
+终于发现 `wr.101.camp` 中的文件更新了
 
 ![mkALef.jpg](https://s2.ax1x.com/2019/08/14/mkALef.jpg)
 
 接着 push `wr.101.camp` 
 
-我测试写几行小字终于更新在官网了……
+我测试写的几行小字终于更新在官网了
 
 ![mkAvFg.jpg](https://s2.ax1x.com/2019/08/14/mkAvFg.jpg)
 
