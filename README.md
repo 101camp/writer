@@ -62,5 +62,5 @@
 
 ## logging
 
-- 2019-08-14 cnfeat 执行发现反馈，并与大妈解决问题，见[操作日志](https://github.com/101camp/writer/blob/master/OperationLog.md)
+- 2019-08-14 cnfeat 执行发现、反馈问题，最终与大妈解决，见[操作日志](https://github.com/101camp/writer/blob/master/OperationLog.md)
 - 190809 ZQ init.
