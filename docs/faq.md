@@ -82,20 +82,20 @@
 
 ## 101camp
 > Reactivate Joy by Self-study with You
-> 
->> **蟒营**
-    
+>     
 
 ```
-    伴你重新享受自学的乐趣
+    蟒营写作班:
+        最后一次学习写作
+    the Last time to learn writing 
 
-  0    o-o    0
- /|   o  /o  /|
-o |   | / | o |    o-o  oo o-O-o o-o
-  |   o/  o   |   |    | | | | | |  |
-o-o-o  o-o  o-o-o  o-o o-o-o o o O-o
-                                 |
-                                 o
+
+    o       o        o
+    |       |     o  |
+    o   o   o o-o   -o- o-o
+     \ / \ /  |   |  |  |-'
+      o   o   o   |  o  o-o
+
 ```
 
 任何问题，随时邮件提问可也：
