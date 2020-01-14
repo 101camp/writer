@@ -199,7 +199,17 @@ var _hmt = _hmt || [];
         <div class="container">
             {%- block content %}
                 <div class="col-md-3">{% include "toc.html" %}</div>
-                <div class="col-md-9" role="main">{% include "content.html" %}</div>
+                <div class="col-md-9" role="main">
+
+
+                {% include "content.html" %}
+                <hr/>
+                {% include "announce.html" %}
+                <hr/>
+                {% include "comments.html" %}
+
+                </div>
+
             {%- endblock %}
         </div>
 
