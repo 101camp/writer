@@ -16,7 +16,7 @@ VER="pub4trigger v.200306.2142"
 #NOW=$(date +"%Y-%m-%d")
 
 PBIN=~/.pyenv/versions/DU363/bin
-SELF=~/Sites/101.camp/_running/gl_101.camp
+SELF=~/Sites/101.camp/_running/writer
 
 GIT=$( which git)
 PY=$PBIN/python
@@ -35,10 +35,10 @@ $PIP list | grep mkdocs
 python -V
 cd $SELF
 
-echo '' > _trigger/deploy.md
+#echo '' > _trigger/deploy.md
 
 inv -l
-inv pub 101
+inv pub 
 
 #=========================================================== action DONE
 exit  0
